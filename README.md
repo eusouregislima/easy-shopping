@@ -6,7 +6,7 @@
 <p> - HTML </p>
 <p> - CSS </p>
 
-<p>construindo esse projeto, aprendi a estilização com o CSS e Responsividade</p>
+<p>Construindo esse projeto, aprendi a estilização com o CSS e Responsividade</p>
 
 <div>
 <img src="https://github.com/eusouregislima/easy-shopping/blob/master/Assets/Screenshot%202022-07-07%20154619.png?raw=true" width="700px"/>
